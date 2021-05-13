@@ -139,7 +139,9 @@ gitment:
 # https://github.com/gitalk/gitalk#install
 gitalk:
     owner: danielsywang
-    repo: blog-comments
+    #repo: blog-comments
+    #自己博客存放的仓库
+    repo: danielsywang.github.io
     clientID: 3ba7c5e5e47fb90e69b7
     clientSecret: dd3293a07d4dd9b72731f78087cf40f1044e5fb2
 # 在使用其它评论组件时可点击显示 Disqus
