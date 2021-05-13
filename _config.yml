@@ -140,7 +140,7 @@ gitment:
 gitalk:
     owner: danielsywang
     #repo: blog-comments
-    #自己博客存放的仓库
+    #自己博客评论存放的仓库
     repo: danielsywang.github.io
     clientID: 3ba7c5e5e47fb90e69b7
     clientSecret: dd3293a07d4dd9b72731f78087cf40f1044e5fb2
@@ -159,10 +159,10 @@ simple_jekyll_search:
 # ---------------- #
 #      Google      #
 # ---------------- #
-#google:
-#    analytics_id: UA-80669434-1
-#    adsense:
-#        footer: true
-#        sidebar: true 
-#        content_header: true
-#        content_footer: false
+google:
+    analytics_id: UA-80669434-1
+    adsense:
+        footer: true
+        sidebar: true 
+        content_header: true
+        content_footer: false
