@@ -1,18 +1,15 @@
 ---
 layout: page
 title: About
-description: 打码改变世界
-keywords: Zhuang Ma, 马壮
+description: 书生的个人博客
+keywords: danielsywang, 书生
 comments: true
 menu: 关于
 permalink: /about/
 ---
 
-我是马壮，码而生，码而立。
+　　本人具有数学+管理+软件工程的教育背景，具有投资、IT和教育三大领域的丰富工作经验。担任过程序员、主管、教师、大型企业的中层管理者、教育机构的创始人、投资公司的合伙人等职务，目前主要关注机器学习和深度学习。希望与各位同行一同学习，一同进步！
 
-仰慕「优雅编码的艺术」。
-
-坚信熟能生巧，努力改变人生。
 
 ## 联系
 
@@ -29,7 +26,7 @@ permalink: /about/
 </ul>
 
 
-## Skill Keywords
+## 专业技能
 
 {% for skill in site.data.skills %}
 ### {{ skill.name }}

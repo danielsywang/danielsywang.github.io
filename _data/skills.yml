@@ -1,19 +1,16 @@
-- name: Software Engineer Keywords
+- name: 数据分析与挖掘
   keywords:
-      - Java
-      - C++
-      - Python
-      - Design Patterns
+      - Scikit-learn
+      - Numpy
+      - Pandas
+      - Matplotlib
+      - StatsModels
+      - Keras
 
-- name: Mobile Developer Keywords
+- name: 数据库
   keywords:
-      - Android
-      - Reverse Engineering
+      - MySQL
+      - MS SQL Server 
+      - DB2
 
-- name: Windows Developer Keywords
-  keywords:
-      - Win32 SDK
-      - DuiLib
-      - WTL
-      - COM
-      - WinDbg
+
