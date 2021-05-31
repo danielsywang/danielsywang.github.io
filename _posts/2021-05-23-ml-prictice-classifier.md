@@ -942,7 +942,7 @@ print("data[:,:3]].shape:", data.iloc[1:,:3].shape)
 
 
 
-![png](/images/posts/machine-learning/ml-practice/chapter6/output_22_1.png)
+![png](/images/posts/ml-practice/chapter6/output_22_1.png)
 
 
 
