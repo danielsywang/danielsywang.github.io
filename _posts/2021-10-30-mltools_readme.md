@@ -3,7 +3,7 @@ layout: post
 title: mltools机器学习工具包功能介绍及用法举例
 categories: Machine-Learning
 description: mltools机器学习工具包功能介绍及用法举例
-keywords: python, data-science, machine-learning, data-mining, statistic, numpy, scikit-learn, pandas, data-visualization, data-analysis
+keywords: mltools, python, data-science, machine-learning, data-mining, statistic, numpy, scikit-learn, pandas, data-visualization, data-analysis
 ---
 
 在机器学习项目实践中工程师需要花费大量的时间进行数据的预处理，但是这些工作在不同项目之间又有很多共同的内容，因此把这些内容提炼出来形成通用的方法就能节省大量的时间。另一个问题是无标签聚类能否像分类和回归那样有一整套成熟的方法来规范我们的分析呢？sci-kit learn没有有效地解决这个问题。如何一次绘出多个图形又能最大限度地减少参数设置呢？图形参数调整需要一次次的试。mltools工具包把工程师每天都遇到的这些问题都解决了。跟着文档和例子一步步地学习，我相信，你的分析能力一定会上一个台阶。
