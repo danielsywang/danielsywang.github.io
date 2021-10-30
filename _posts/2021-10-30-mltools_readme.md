@@ -1,11 +1,8 @@
-```
 layout: post
 title: mltools机器学习工具包功能介绍及用法举例
 categories: Machine-Learning
 description: mltools机器学习工具包功能介绍及用法举例
-keywords: python, data-science,machine-learning,data-mining,statistic,numpy,scikit-learn,pandas,data-visualization,data-analysis
-
-```
+keywords: python, data-science, machine-learning, data-mining, statistic, numpy, scikit-learn, pandas, data-visualization, data-analysis
 
 
 
