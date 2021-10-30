@@ -14,7 +14,13 @@ keywords: python, data-science, machine-learning, data-mining, statistic, numpy,
 
 - [mltools](https://danielsywang.github.io/mltools/) 共有以下4个模块
 
-  [explore module](https://danielsywang.github.io/mltools/docs/build/_modules/explore.html)：数据探索[feature module](https://danielsywang.github.io/mltools/docs/build/_modules/feature.html)：特征选择[mlcluster module](https://danielsywang.github.io/mltools/docs/build/_modules/mlcluster.html)：无标签聚类选择最佳参数及绘图[plot module](https://danielsywang.github.io/mltools/docs/build/_modules/plot.html)：绘图
+  [explore module](https://danielsywang.github.io/mltools/docs/build/_modules/explore.html)：数据探索
+  
+  [feature module](https://danielsywang.github.io/mltools/docs/build/_modules/feature.html)：特征选择
+  
+  [mlcluster module](https://danielsywang.github.io/mltools/docs/build/_modules/mlcluster.html)：无标签聚类选择最佳参数及绘图
+  
+  [plot module](https://danielsywang.github.io/mltools/docs/build/_modules/plot.html)：绘图
 
 ## 下载与安装
 
